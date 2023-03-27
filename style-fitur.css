@@ -1,0 +1,32 @@
+*,html,body{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+    font-family: Arial;
+  }
+  
+  table, th, td{
+    
+      border-collapse: collapse;
+      padding: 10px;
+      margin-top: 10px;
+      
+    }
+  
+  .container{
+    margin: 40px;
+    padding: 20px;
+    
+  }
+  .main{
+    margin-top: 10px;
+    padding: 20px;
+  }
+
+  .simpan{
+    padding: 8px;
+    background-color: dodgerblue;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 8px;
+  }
